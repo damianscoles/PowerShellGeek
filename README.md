@@ -33,6 +33,7 @@ https://gallery.technet.microsoft.com/Distribution-Group-Cleanup-a12d2027
 * Exchange Lab Setup v1.6 [2015-03-21]
 https://gallery.technet.microsoft.com/Exchange-Lab-Setup-v16-42d4a3b6
 * Setting Exchange URLs - 2007, 2010, 2013, 2016 - v1.2 * Revised [2016-01-22]
+https://gallery.technet.microsoft.com/Setting-Exchange-URLs-2007-3a6f8d15
 
 PowerShellGeek.Com (not comprehensive yet)
 
