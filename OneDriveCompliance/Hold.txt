@@ -1,0 +1,1 @@
+The script file here is referenced in a blog article on Practical365.com written by Damian Scoles, Microsoft MVP.
