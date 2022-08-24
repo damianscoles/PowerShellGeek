@@ -47,4 +47,4 @@ PowerShellGeek.Com (not comprehensive yet)
 <Future FAQ will appear here>
 
 ## Contact
-Fee free to leave feedback either through a feature request or bug report on this GitHub.  I do not guarantee I will make the change.  I do guarantee I will look at your request.  If you wish to reach out to me outside of Github, send an email to feedback at powershellgeek.com.
+Feel free to leave feedback either through a feature request or bug report on this GitHub.  I do not guarantee I will make the change.  I do guarantee I will look at your request.  If you wish to reach out to me outside of Github, send an email to feedback at powershellgeek.com.
